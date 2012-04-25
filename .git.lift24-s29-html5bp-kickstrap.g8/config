@@ -5,7 +5,7 @@
 	logallrefupdates = true
 [branch "master"]
 [remote "origin"]
-	url = git@github.com:lift-stack/lift24-s29-html5bp-kickstrap.g8.git
+	url = git@github.com:liftstack/lift24-s29-html5bp-kickstrap.g8.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
 [branch "master"]
 	remote = origin
